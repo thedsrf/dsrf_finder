@@ -17,7 +17,7 @@ To install this library in your system please follow the steps:
     >>> pip install requirement.txt
     >>>echo Your installation is successfull
 
-If anything gose wrong in installation please contact in mailto:dsrf.anas@gmail.com
+If anything gose wrong in installation please contact in dsrf.anas@gmail.com
 
 
 
@@ -32,7 +32,9 @@ Based on **Python version: 3.6** or higher. Py version **V.3.9** is recomanded.
 
 Developer
 =========
-
+<html>
+<body>
 **Developed by:**<a href="https://www.twitter.com/anas__bhuiyan"> Anas bin hasn bhuiyan</a>
 <i style="color:yellow">&copy; dsrf.firm.pvt.ltd</i>
-
+<body/>
+<html/>
