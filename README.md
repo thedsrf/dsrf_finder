@@ -21,7 +21,7 @@ To install [dsrf-finder](https://github.com/thedsrf/dsrf-finder) library in your
  Go to the project directory
 
  ```bash
-   cd dsrf-finder
+   cd dsrf_finder
  ```
 
  Install dependencies
