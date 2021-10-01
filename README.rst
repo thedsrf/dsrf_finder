@@ -33,6 +33,13 @@ Version
 
 Developer
 =========
- .. ..
-  <p><b>Developed by:</b><a href:'https://www.twitter.com/anas__bhuiyan'> Anas bin hasan bhuiyan</a></p>
-  <i style='color:yellow'> &copy; dsrf.firm.pvt.ltd </i>
+  
+  
+  
+  Developed by: [Anas bin hasan bhuiyan](https://www.twitter.com/anas__bhuiyan)
+  &copy; dsrf.firm.pvt.ltd
+
+License
+========
+ 
+ [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
