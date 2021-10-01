@@ -16,7 +16,7 @@ To install [dsrf-finder](https://github.com/thedsrf/dsrf_finder) library in your
  ```
  Clone dsrf-finder
  ```bash
-   git clone https://github.com/thedsrf/dsrf-finder.git
+   git clone https://github.com/thedsrf/dsrf_finder.git
  ```
  Go to the project directory
 
