@@ -32,9 +32,6 @@ Based on **Python version: 3.6** or higher. Py version **V.3.9** is recomanded.
 
 Developer
 =========
-<html>
-<body>
-**Developed by:**<a href="https://www.twitter.com/anas__bhuiyan"> Anas bin hasn bhuiyan</a>
-<i style="color:yellow">&copy; dsrf.firm.pvt.ltd</i>
-<body/>
-<html/>
+
+**Developed by:** https://www.twitter.com/anas__bhuiyan
+&copy; dsrf.firm.pvt.ltd
