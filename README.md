@@ -27,7 +27,7 @@ To install [dsrf-finder](https://github.com/thedsrf/dsrf-finder) library in your
  Install dependencies
 
  ```bash
-   pip install requirement.txt
+   pip install -r requirements.txt
  ```
  #
  If anything gose wrong in installation please contact in dsrf.anas@gmail.com
