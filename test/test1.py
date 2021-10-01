@@ -1,4 +1,4 @@
-import dsrf_finder
+from dsrf_finder import  dsrf_finder
 
 link = 'https://en.wikipedia.org/wiki/List_of_chapters_in_the_Quran'
 sura_name = '//*[@id="mw-content-text"]/div[1]/table/tbody/tr[*]/td[2]/a'
