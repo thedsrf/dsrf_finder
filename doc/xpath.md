@@ -1,75 +1,28 @@
-Xpath Selection
-Enable fullscreen
-In some cases, your target element is not visible on the page, and you might want to consider an alternative way to select elements on the page.  
+# Xpath Selection
+ 
+ In some cases, your target element is not visible on the page, and you might want to consider an alternative way to select elements on the page.  
 
-What does XPath do? How does it work?
-XPath is a language that lets you select particular HTML elements from a page that ParseHub is on.
+ #### What does XPath do? How does it work?
+ XPath is a language that lets you select particular HTML elements from a webpage.
 
-This can be more powerful or precise than ParseHub's default way of selecting elements (by clicking on them), but also requires some more coding knowledge.
+ #### Why should I use XPath?
+ In most cases, you shouldn't need to! However, there are a few cases where it might be necessary (or at least a lot more elegant) to use an XPath selection.
+ This includes when you need data, such as latitutde and longitude, from a map where it isn't readily available hidden elements or previous data are being selected
+ different pages on an eCommerce website have different page layouts
+ 
+ You should try to use XPath selections when both Select Commands and CSS Selectors are not capable of selecting the elements you want. 
 
-Why should I use XPath?
-In most cases, you shouldn't need to! However, there are a few cases where it might be necessary (or at least a lot more elegant) to use an XPath selection. This includes when...
+ #### How to Write in XPath
+ To use XPath, you need to understand some of the basics of HTML first. XPath selects elements based off of the tags and the attributes of those tags on the page.
 
-you need data, such as latitutde and longitude, from a map where it isn't readily available
+ This a refers to a link on the page, in an HTML <a> tag. The link itself is contained in the href attribute.
 
-hidden elements or previous data are being selected
-
-different pages on an eCommerce website have different page layouts
-
-You should try to use XPath selections when both Select Commands and CSS Selectors are not capable of selecting the elements you want. 
-
-How to enable XPath selection
-To use XPath to select an element, you have to edit the options of a pre-existing Select or Relative Select command.
-
-Click on the Select or Relative Select in the list of commands in your project to select it as the active command.
-
-Click on the green Edit button beside Selection Node.
-
-
-
-Click on Use XPath Selection, which should cause the Selector text box to appear.
-
-
-
-This textbox is where you can input an XPath path to select elements on the page.
-
-
-
-Can you enable XPath with a Relative Select?
-Yes, however, the command will no longer be relative. XPath selectors always select from the entire page.
-
-Rooted Selection
-When you use XPath you’ll see a “Rooted Selection” checkbox appear below. Rooted Selection refers to treating the selection as relative to the top of the document rather than to the nearest parent selection.
-
-If enabled, it will select every element on the page instead of within the container that you are currently in. 
-
-How to Write in XPath
-To use XPath, you need to understand some of the basics of HTML first. XPath selects elements based off of the tags and the attributes of those tags on the page.
-
-You might have noticed that ParseHub already tells you what tags any given selection is using.
-
-
-
-This a refers to a link on the page, in an HTML <a> tag. The link itself is contained in the href attribute.
-
-
-
-You might have already noticed the href attribute mentioned if you use an Extract command on a selected link.
-
-
-
-XPath, however, doesn't extract elements, it only selects them. 
-
-Viewing a Page's HTML
-For the next few parts, it will be helpful to view the page’s HTML code.
-
-If you need a refresher on how to do this, refer to the previous lesson. 
-
-The Language of XPath
-This tutorial is going to just go into the basis of XPath, with the use it has in ParseHub in mind. Of course, there are many more uses and features in XPath that you can look into and use in ParseHub.
-
-Selecting all elements
-To select all tags of one type, use: //tag
+ You might have already noticed the href attribute mentioned if you use an Extract command on a selected link.
+ XPath, however, doesn't extract elements, it only selects them. 
+ 
+  #### Selecting all elements
+  
+  To select all tags of one type, use: //tag
 
 You should avoid typing this in for div or span tags, because it can select very many elements and cause ParseHub to crash. You should write your predicate first, something we'll learn about later.
 
