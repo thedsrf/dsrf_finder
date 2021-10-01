@@ -33,7 +33,7 @@ To install [dsrf-finder](https://github.com/thedsrf/dsrf-finder) library in your
  If anything gose wrong in installation please contact in dsrf.anas@gmail.com
 
 ### Docomentation
- [CSS Selector](https://github.com/thedsrf/dsrf-finder/blob/main/doc/ccs%20selector.md) , [xpath selection]('https://github.com/thedsrf/dsrf-finder/blob/main/doc/xpath.md') , [dsrf finder]('https://github.com/thedsrf/dsrf-finder/blob/main/doc/dsrf%20finder.md')
+ [CSS Selector](https://github.com/thedsrf/dsrf-finder/blob/main/doc/ccs%20selector.md) , [xpath selection](https://github.com/thedsrf/dsrf-finder/blob/main/doc/xpath.md) , [dsrf finder]('https://github.com/thedsrf/dsrf-finder/blob/main/doc/dsrf%20finder.md)
  #
  
 ### Version of Library
