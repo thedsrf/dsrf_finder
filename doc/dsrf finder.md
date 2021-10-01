@@ -18,7 +18,7 @@
  #### Function 1  : xpath_hfinder
  Part 1 (import)
  ```bash
-    import dsrf-finder
+    from dsrf_finder import dsrf_finder
  ```
 
  Part 2 (must write)
@@ -30,7 +30,7 @@
  ```
  Part 3 (no need to write)
  ```bash
-    #session = dsrf-finder.HTMLSession()
+    #session = dsrf_finder.HTMLSession()
     #r = session.get(url)
     #data = r.html.xpath(xpath)
  ```
@@ -45,7 +45,7 @@
 
  ```bash
     #rq = any name of column you want
-    rq = dsrf-finder.xpath_hfinder(url, path)
+    rq = dsrf_finder.xpath_hfinder(url, path)
     print(rq)
  ```
  ##### To know more about xpath please visit : [xpath selection](https://github.com/thedsrf/dsrf-finder/blob/main/doc/xpath.md)
@@ -67,7 +67,7 @@
  Part 3 (no need to write)
 
  ```bash
-    #session = dsrf-finder.HTMLSession()
+    #session = dsrf_finder.HTMLSession()
     #r = session.get(link)
     #data = r.html.find(css path)
  ```
@@ -80,7 +80,7 @@
  Part 5 (let's get the data)
  ```bash
     #rq = any name of column you want
-    rq = dsrf-finder.css_hfinder(url, path)
+    rq = dsrf_finder.css_hfinder(url, path)
     print(rq)
  ```
  ##### To know more about css selector please visit : [css selector](https://github.com/thedsrf/dsrf-finder/blob/main/doc/css%20selector.md)
@@ -91,7 +91,7 @@
 
   Part 1 (import)
  ```bash
-    import dsrf-finder
+    import dsrf_finder
  ```
  Part 2 (must write)
 
@@ -118,7 +118,7 @@
  Part 4 (must write)
 
  ```bash
-    session = dsrf-finder.HTMLSession()
+    session = dsrf_finder.HTMLSession()
     r = session.get(url)
 
     #if path is xpath
@@ -131,7 +131,7 @@
  Part 5 (let's get the data)
  ```bash
     #rq = any name of column you want
-    rq = dsrf-finder.phfinder(data, path)
+    rq = dsrf_finder.phfinder(data, path)
     print(rq)
  ```
  ##### To know more about css and xpath selector please visit : [css selector](https://github.com/thedsrf/dsrf-finder/blob/main/doc/css%20selector.md) , [xpath](https://github.com/thedsrf/dsrf-finder/blob/main/doc/xpath.md)
