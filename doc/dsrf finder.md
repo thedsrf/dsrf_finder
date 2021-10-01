@@ -48,7 +48,7 @@
     rq = dsrf_finder.xpath_hfinder(url, path)
     print(rq)
  ```
- ##### To know more about xpath please visit : [xpath selection](https://github.com/thedsrf/dsrf-finder/blob/main/doc/xpath.md)
+ ##### To know more about xpath please visit : [xpath selection](https://github.com/thedsrf/dsrf_finder/blob/main/doc/xpath.md)
 
  #
  #### Function 2  : css_hfinder
@@ -83,7 +83,7 @@
     rq = dsrf_finder.css_hfinder(url, path)
     print(rq)
  ```
- ##### To know more about css selector please visit : [css selector](https://github.com/thedsrf/dsrf-finder/blob/main/doc/css%20selector.md)
+ ##### To know more about css selector please visit : [css selector](https://github.com/thedsrf/dsrf_finder/blob/main/doc/css%20selector.md)
 
  #
  #### Function 3  : phfinder
@@ -134,6 +134,6 @@
     rq = dsrf_finder.phfinder(data, path)
     print(rq)
  ```
- ##### To know more about css and xpath selector please visit : [css selector](https://github.com/thedsrf/dsrf-finder/blob/main/doc/css%20selector.md) , [xpath](https://github.com/thedsrf/dsrf-finder/blob/main/doc/xpath.md)
+ ##### To know more about css and xpath selector please visit : [css selector](https://github.com/thedsrf/dsrf_finder/blob/main/doc/css%20selector.md) , [xpath](https://github.com/thedsrf/dsrf_finder/blob/main/doc/xpath.md)
  
  #
