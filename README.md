@@ -32,6 +32,10 @@ To install [dsrf-finder](https://github.com/thedsrf/dsrf-finder) library in your
  #
  If anything gose wrong in installation please contact in dsrf.anas@gmail.com
 
+### Docomentation
+ [CSS Selector](https://github.com/thedsrf/dsrf-finder/blob/main/doc/ccs%20selector.md)
+ #
+ 
 ### Version of Library
  `version: 1.0.1`
 
