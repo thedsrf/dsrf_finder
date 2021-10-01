@@ -33,7 +33,6 @@ Version
 
 Developer
 =========
-
- **Developed by:** https://www.twitter.com/anas__bhuiyan
- 
- &copy; dsrf.firm.pvt.ltd
+ .. ..
+  <p><b>Developed by:</b><a href:'https://www.twitter.com/anas__bhuiyan'> Anas bin hasan bhuiyan</a></p>
+  <i style='color:yellow'> &copy; dsrf.firm.pvt.ltd </i>
