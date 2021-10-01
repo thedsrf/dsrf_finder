@@ -5,7 +5,7 @@
 
  This library intends to make parsing HTML (e.g. scraping the web) as simple, intuitive and make the scrape as fast as possible.
 #
-To install [dsrf-finder](https://github.com/thedsrf/dsrf-finder) library in your system please follow the steps:
+To install [dsrf-finder](https://github.com/thedsrf/dsrf_finder) library in your system please follow the steps:
 
 ### Installation
 
