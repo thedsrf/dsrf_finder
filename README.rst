@@ -17,7 +17,7 @@ To install this library in your system please follow the steps:
     >>> pip install requirement.txt
     >>>echo Your installation is successfull
 
-If anything gose wrong in installation please contact in <a mailto:dsrf.anas@gmail.com> admin.dsrf </a> 
+If anything gose wrong in installation please contact in mailto:dsrf.anas@gmail.com
 
 
 
