@@ -10,6 +10,7 @@ Installation
 To install this library in your system please follow the steps:
 
 .. code-block:: pycon
+
     >>> pip install git-clone
     >>> git clone https://github.com/thedsrf/dsrf-finder.git
     >>> cd dsrf-finder
