@@ -32,12 +32,10 @@ Version
 
 
 Developer
-=========
-  
-  
-  
-  Developed by: [Anas bin hasan bhuiyan](https://www.twitter.com/anas__bhuiyan)
-  &copy; dsrf.firm.pvt.ltd
+========
+
+ Developed by: [Anas bin hasan bhuiyan](https://www.twitter.com/anas__bhuiyan)
+ &copy; dsrf.firm.pvt.ltd
 
 License
 ========
