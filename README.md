@@ -5,10 +5,16 @@
 
  This library intends to make parsing HTML (e.g. scraping the web) as simple, intuitive and make the scrape as fast as possible.
 #
-To install [dsrf-finder](https://github.com/thedsrf/dsrf_finder) library in your system please follow the steps:
+To install [dsrf-finder](https://pypi.org/project/dsrf-finder) library in your system please follow the steps:
 
 ### Installation
 
+ Simply install by
+ ```bash
+  pip install dsrf-finder
+ ```
+ #### Or install by using github
+ 
  Install git-clone
 
  ```bash
@@ -37,7 +43,7 @@ To install [dsrf-finder](https://github.com/thedsrf/dsrf_finder) library in your
  #
  
 ### Version of Library
- `version: 1.0.2`
+ `version: 0.0.2`
 
  Based on **Python version: 3.6** or higher. 
  
