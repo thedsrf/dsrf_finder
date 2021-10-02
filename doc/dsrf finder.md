@@ -55,7 +55,7 @@
 
   Part 1 (import)
  ```bash
-    import dsrf-finder
+    from dsrf_finder import dsrf_finder
  ```
  Part 2 (must write)
 
@@ -91,7 +91,7 @@
 
   Part 1 (import)
  ```bash
-    import dsrf_finder
+    from dsrf_finder import dsrf_finder
  ```
  Part 2 (must write)
 
