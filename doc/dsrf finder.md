@@ -122,10 +122,10 @@
     r = session.get(url)
 
     #if path is xpath
-    data = r.html.xpath(xpath)
+    data = r.html.xpath
 
     #if path is css selector
-    data = r.html.find(css selector) 
+    data = r.html.find
  ```
  
  Part 5 (let's get the data)
