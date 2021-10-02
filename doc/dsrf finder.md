@@ -32,7 +32,7 @@
  ```bash
     #session = dsrf_finder.HTMLSession()
     #r = session.get(url)
-    #data = r.html.xpath(xpath)
+    #data = r.html.xpath
  ```
  Part 4 (xpath)
 
@@ -69,7 +69,7 @@
  ```bash
     #session = dsrf_finder.HTMLSession()
     #r = session.get(link)
-    #data = r.html.find(css path)
+    #data = r.html.find
  ```
  Part 4 (css selector)
  ```bash
