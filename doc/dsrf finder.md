@@ -4,7 +4,7 @@
 ### Details
  **Name                     :** dsrf_ finder
  
- **version                  :** 1.0.1, 1.0.2(pending..)
+ **versions                 :** 0.0.1, 0.0.2
  
  **Developed and created by :** Anas Bin Hasn Bhuiyan
 
