@@ -43,7 +43,7 @@ To install [dsrf-finder](https://pypi.org/project/dsrf-finder) library in your s
  #
  
 ### Version of Library
- `version: 0.0.2`
+ `version: 0.0.3`
 
  Based on **Python version: 3.6** or higher. 
  
